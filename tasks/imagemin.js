@@ -1,5 +1,5 @@
 'use strict';
-var fs = require('fs');
+var fs = require('graceful-fs');
 var os = require('os');
 var path = require('path');
 var async = require('async');
